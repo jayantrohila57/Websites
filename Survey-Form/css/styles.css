@@ -4,11 +4,12 @@ body {
     line-height: 25px;
     padding: 15px;
     margin: 0;
+    margin-left: auto;
+    margin-right: auto;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url(https://images.pexels.com/photos/7512950/pexels-photo-7512950.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
-    box-sizing: border-box;
 }
 
 input {
@@ -27,6 +28,9 @@ input {
 }
 
 #blur-bg1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     backdrop-filter: blur(5px);
     border-radius: 5px;
     padding-top: 15px;
@@ -46,9 +50,13 @@ input {
 
 #description {
     text-align: center;
+    padding: 20px;
 }
 
 #blur-bg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     backdrop-filter: blur(5px);
     max-width: 600px;
 }
@@ -61,8 +69,8 @@ input {
 
 #survey-form {
     border-radius: 5px;
-    font-size: 1.2rem;
-    padding: 35px;
+    font-size: 1.0rem;
+    padding: 30px;
     background-color: rgba(255, 255, 255, 0.534);
 }
 

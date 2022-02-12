@@ -13,25 +13,23 @@
 <body>
     <div id="main">
         <div id="blur-bg1">
-            <div id="title">
-                <h1>Survey Form</h1>
-            </div>
-            <div id="description">
-                <h4>Thank you for taking the time to help us improve the platform</h4>
-            </div>
+            <h1 id="title" class="text-center">Survey Form</h1>
+            <p id="description" class="description text-center">
+                Thank you for taking the time to help us improve the platform
+            </p>
         </div>
 
         <div id="blur-bg">
             <div id="form-box">
                 <form id="survey-form" action="">
-                    <label id="name-label" for="name">Name</label><br />
-                    <input type="text" id="name" name="name" placeholder="Enter your name" /><br /><br />
+                    <label id="name-label" for="name">Name</label><br/>
+                    <input type="text" name="name" id="name" class="form-control" placeholder="Enter your name" required="">
 
-                    <label id="email-label" for="email">Email</label><br />
-                    <input type="text" id="email" name="email" placeholder="Enter your email" /><br /><br />
+                    <label id="email-label" for="email">Email</label><br/>
+                    <input type="email" name="email" id="email" class="form-control" placeholder="Enter your Email" required="">
 
-                    <label id="number-label" for="age">Age (optional)</label><br />
-                    <input type="number" id="age" name="age" placeholder="Enter your age" /><br /><br />
+                    <label id="number-label" for="age">Age (optional)</label><br/>
+                    <input type="number" name="age" id="number" min="10" max="99" class="form-control" placeholder="Age">
 
                     <label id="dropdown-label" for="dropdown">Which option best describes your current role?</label
 						><br />
@@ -44,7 +42,7 @@
 							<option value="fullTimeLearner">Full Time Learner</option>
 							<option value="preferNotToSay">Prefer Not To Say</option>
 							<option value="other">Other</option></select
-						><br /><br />
+						><br/><br/>
 
 						<label id="radio-label" for="radio"
 							>Would you recommend to a friend?</label
