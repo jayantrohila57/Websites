@@ -1,0 +1,34 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.0rem;
+    line-height: 25px;
+    padding: 15px;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#main-body {
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+    height: 100%;
+    width: 100%;
+}
+
+#section-panel {
+    background-color: yellowgreen;
+    float: left;
+    height: 100%;
+    width: 30%;
+}
+
+#section-info {
+    background-color: aqua;
+    height: 100%;
+    width: 70%;
+    float: right;
+}
