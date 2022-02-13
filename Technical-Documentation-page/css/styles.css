@@ -8,6 +8,19 @@ body {
     background-color: #141414;
 }
 
+body::-webkit-scrollbar {
+    width: 1em;
+}
+
+body::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    outline: 1px solid slategrey;
+}
+
 #main-body {
     display: block;
     padding: 0;
@@ -17,6 +30,9 @@ body {
 }
 
 #section-panel {
+    overflow: scroll;
+    scrollbar-base-color: #141414;
+    scrollbar-color: rgba(255, 255, 255, 0.4);
     position: fixed;
     min-width: 290px;
     top: 0px;
@@ -25,7 +41,7 @@ body {
     height: 100%;
     padding: 10px;
     border-right: 5px solid;
-    border-color: rgba(255, 255, 255, 0.4);
+    border-color: rgba(128, 128, 128, 0.4);
 }
 
 #sec-pln {
@@ -37,27 +53,34 @@ body {
     padding-bottom: 10px;
 }
 
-li {
+#section-panel li {
+    list-style: none;
     display: list-item;
     text-align: left;
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     border-radius: 10px;
     color: aliceblue;
+    text-decoration: none;
     padding: 5px;
     padding-left: 20px;
     height: 30px;
     background-color: rgb(255 255 255 / 18%);
     margin-top: 8px;
-    margin-right: 10px;
 }
 
-header1 {
+#section-panel li:hover {
+    background-color: rgba(179, 179, 179, 0.568);
+}
+
+#section-panel ul {
+    padding: 10px;
+}
+
+h2 {
     color: aliceblue;
-    margin: 30px;
-    width: 100%;
+    margin: 10px;
     font-size: 1.6em;
     text-align: center;
-    font-weight: thin;
 }
 
 href {
@@ -65,7 +88,7 @@ href {
 }
 
 header {
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     margin: 10px;
     margin-top: 20px;
     margin-left: 0px;
@@ -76,6 +99,11 @@ header {
     background-color: rgb(255 255 255 / 18%);
     border-radius: 20px 20px 2px 2px;
     padding: 20px;
+}
+
+header:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgba(179, 179, 179, 0.568);
 }
 
 #section-info {
@@ -113,4 +141,8 @@ code {
     padding: 15px;
     margin: 10px;
     border-radius: 15px;
+}
+
+code:hover {
+    background-color: rgba(90, 90, 90, 0.568);
 }
