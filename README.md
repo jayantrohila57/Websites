@@ -9,8 +9,8 @@
 
 <h1>#Tribute Page: https://tribute-page.pages.dev</h1>
 <p align="left">
-    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/2%20(4).png"  width="auto" height="320">
-    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/1%20(4).png" width="auto" height="320">
+    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/2%20(4).png"  width="auto" max-height="320">
+    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/1%20(4).png" width="auto" max-height="320">
 </p>
 <br>------------------------------------------------------------------<br>
 
