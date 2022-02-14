@@ -1,11 +1,44 @@
 # Websites
 <p>
-There are some of my website that I've created while learning web development, 
-Those are just UI with no backend.
-I'll upload the backend files as I learn, make sure to check them.
+    There are some of my website that I've created while learning web development,
+    Those are just UI with no backend.
+    I'll upload the backend files as I learn, make sure to check them.
 </p>
-📝 #Tribute Page: https://tribute-page.pages.dev <br>
-📝 #Survey Form: https://survey-forms.pages.dev <br>
-📝 #Js Documentation: https://js-doc.pages.dev <br>
-📝 #Portfolio: https://jayantrohila.pages.dev <br>
-📝 #Fashion Website: https://hassa-designs.pages.dev <br>
+<br>------------------------------------------------------------------<br>
+
+
+<h1>#Tribute Page: https://tribute-page.pages.dev</h1>
+<p align="left">
+    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/2%20(4).png" height="320">
+    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/1%20(4).png" height="320">
+</p>
+<br>------------------------------------------------------------------<br>
+
+<h1>#Survey Form: https://survey-forms.pages.dev</h1>
+<p align="left">
+    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/2%20(3).png" height="320">
+    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/1%20(3).png" height="320">
+</p>
+<br>------------------------------------------------------------------<br>
+
+<h1>#Js Documentation: https://js-doc.pages.dev</h1>
+<p align="left">
+    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/2%20(2).png" height="320">
+    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/1%20(2).png" height="320">
+</p>
+<br>------------------------------------------------------------------<br>
+
+<h1>#Fashion Website: https://hassa-designs.pages.dev </h1>
+<p align="left">
+    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/2%20(1).png" height="320">
+    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/1%20(1).png" height="320">
+</p>
+<br>------------------------------------------------------------------<br>
+
+<h1>#Portfolio: https://jayantrohila.pages.dev </h1>
+<p align="left">
+    <img src="" height="320">
+    <img src="" height="320">
+</p>
+<br>------------------------------------------------------------------<br>
+
