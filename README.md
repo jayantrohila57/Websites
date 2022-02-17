@@ -38,15 +38,15 @@
 
 <h1>#Product Landing Page: https://product-page.pages.dev </h1>
 <p align="left">
-    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/2(5).png" width="auto" height="320">
-    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/1(5).png" width="auto" height="320">
+    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/1%20(5).png" width="auto" height="320">
+    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/2%20(5).png" width="auto" height="320">
 </p>
 <br>------------------------------------------------------------------<br>
 
 <h1>#Portfolio: https://jayantrohila.pages.dev </h1>
 <p align="left">
-    <img src=""  width="auto" height="320">
-    <img src=""  width="auto" height="320">
+    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/1%20(6).png"  width="auto" height="320">
+    <img src="https://github.com/jayantrohila57/Websites/blob/main/img/2%20(6).png"  width="auto" height="320">
 </p>
 <br>------------------------------------------------------------------<br>
 
